@@ -1,0 +1,21 @@
+Age: 23
+Blood-Type: O+
+Marital-status: Single
+Name: Tenzin Phuljung
+Occupation: Web Developer
+
+
+Age: 30
+Blood-Type: O+
+Marital-status: Single
+Name: James Gordon
+Occupation: Detective
+
+
+Age: 27
+Blood-Type: O+
+Marital-status: Single
+Name: Batman
+Occupation: Gotham Vigilante
+
+

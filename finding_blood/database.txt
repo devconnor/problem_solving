@@ -1,0 +1,35 @@
+Name: Tenzin Phuljung
+Age: 23
+Occupation: Web Developer
+Blood-Type: O+
+Marital-status: Single
+
+Name: Connor Reardon
+Age: 17
+Occupation: Vice-president
+Blood-Type: A-
+Marital-status: Divorced
+
+Name: Michael Phelps
+Age: 28
+Occupation: Swimmer
+Blood-Type: A+
+Marital-status: Divorced
+
+Name: James Gordon
+Age: 30
+Occupation: Detective
+Blood-Type: O+
+Marital-status: Single
+
+Name: Batman
+Age: 27
+Occupation: Gotham Vigilante
+Blood-Type: O+
+Marital-status: Single
+
+Name: Alvaro Font
+Age: 24
+Occupation: Stock Broker/Software Developer
+Blood-Type: B+
+Marital-status: Single
